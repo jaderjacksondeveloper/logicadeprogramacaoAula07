@@ -1,11 +1,11 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
+// Professor   : JADER JACKSON
+// DescriÃ§Ã£o   : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
 // Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 04/05/2023
+// Data atual  : 10/05/2023
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    LOGIN: CARACTERE
    SENHA: INTEIRO
    INFORMADOLOGIN: CARACTERE
@@ -36,7 +36,7 @@ Var
 
 
 Inicio
-   // Seção de Comandos PARA LOGIN E SENHA
+   // SeÃ§Ã£o de Comandos PARA LOGIN E SENHA
    LOGIN <- "LCC"
    SENHA <-2535
    REPITA
